@@ -18,17 +18,17 @@ links:
   icon_pack: fas
   name: website
   url: https://allisonhorst.github.io/palmerpenguins/
-- icon: github
+- icon: twitter
   icon_pack: fab
-  name: code
-  url: https://github.com/allisonhorst/palmerpenguins/
+  name: Tweet @allison_horst
+  url: https://twitter.com/allison_horst/
 - icon: newspaper
   icon_pack: far
   name: Blog post
   url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
 ---
 
-{{< here >}}
+
 
 ### “Grid is the very first CSS module created specifically to solve the layout problems we've all been hacking our way around for as long as we've been making websites.”
 
