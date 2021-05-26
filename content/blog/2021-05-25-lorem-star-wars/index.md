@@ -11,6 +11,9 @@ categories:
 - Theme features
 ---
 
+## And some slides here
+
+[slides](/slides/ninja.html#1)
 
 ## But first, a shortcode trick
 
